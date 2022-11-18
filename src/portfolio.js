@@ -615,6 +615,87 @@ const projects = {
     },
     {
       id: "1",
+      name: "voltadao",
+      url: "https://www.voltadao.finance/",
+      logo_path: "voltadao.jfif",
+      description:
+        "Several staking projects based on VOLTA and PREP tokens.",
+      languages: [
+        {
+          name: "Blockchain",
+          iconifyClass: "logos-blockchain",
+        },
+        {
+          name: "Smart Contract",
+          iconifyClass: "logos-smart-contract",
+        },
+        {
+          name: "Solidity",
+          iconifyClass: "logos-solidity",
+        },
+        {
+          name: "Subgraph",
+          iconifyClass: "logos-subgrap",
+        },
+        {
+          name: "Node.js/Express",
+          iconifyClass: "logos-express",
+        },
+        {
+          name: "GraphQL",
+          iconifyClass: "logos-graphql",
+        },
+        {
+          name: "Vue.js",
+          iconifyClass: "logos-vue",
+        }, 
+        {
+          name: "Ethereum",
+        }
+      ],
+    },
+    {
+      id: "1",
+      name: "MehhCoin",
+      url: "https://mehhcoin.com/",
+      logo_path: "voltadao.jfif",
+      description:
+        "Alternative of Ethereum 2.0 coin.",
+      languages: [
+        {
+          name: "Blockchain",
+          iconifyClass: "logos-blockchain",
+        },
+        {
+          name: "Smart Contract",
+          iconifyClass: "logos-smart-contract",
+        },
+        {
+          name: "Solidity",
+          iconifyClass: "logos-solidity",
+        },
+        {
+          name: "Cryptocurrencies",
+          iconifyClass: "logos-Cryptocurrencies",
+        },
+        {
+          name: "Node.js/Express",
+          iconifyClass: "logos-express",
+        },
+        {
+          name: "GraphQL",
+          iconifyClass: "logos-graphql",
+        },
+        {
+          name: "Vue.js",
+          iconifyClass: "logos-vue",
+        }, 
+        {
+          name: "Ethereum",
+        }
+      ],
+    }, {
+      id: "2",
       name: "Caballus",
       logo_path: "caballus.png",
       url: "https://ion-caballus.qa.riafox.dev/",
@@ -655,7 +736,7 @@ const projects = {
       ],
     },
     {
-      id: "2",
+      id: "3",
       name: "FamilyTree365",
       logo_path: "familytree365.png",
       url: "https://www.familytree365.com/",
