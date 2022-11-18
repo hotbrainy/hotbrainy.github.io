@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.65014132.chunk.css",
-    "main.js": "/static/js/main.5a640cad.chunk.js",
-    "main.js.map": "/static/js/main.5a640cad.chunk.js.map",
+    "main.js": "/static/js/main.6016aeb5.chunk.js",
+    "main.js.map": "/static/js/main.6016aeb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ce89729d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ce89729d.js.map",
-    "static/js/2.b9025174.chunk.js": "/static/js/2.b9025174.chunk.js",
-    "static/js/2.b9025174.chunk.js.map": "/static/js/2.b9025174.chunk.js.map",
+    "static/js/2.3f007cd6.chunk.js": "/static/js/2.3f007cd6.chunk.js",
+    "static/js/2.3f007cd6.chunk.js.map": "/static/js/2.3f007cd6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd91bc5272ce97f1e7758661782f3aae.js": "/precache-manifest.bd91bc5272ce97f1e7758661782f3aae.js",
+    "precache-manifest.bed300cf6d685f8eb848e39e33405f0c.js": "/precache-manifest.bed300cf6d685f8eb848e39e33405f0c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.65014132.chunk.css.map": "/static/css/main.65014132.chunk.css.map",
-    "static/js/2.b9025174.chunk.js.LICENSE.txt": "/static/js/2.b9025174.chunk.js.LICENSE.txt",
+    "static/js/2.3f007cd6.chunk.js.LICENSE.txt": "/static/js/2.3f007cd6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/U-of-T-logo.svg": "/static/media/U-of-T-logo.f25b3518.svg",
     "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
@@ -20,6 +20,7 @@
     "static/media/civilization.png": "/static/media/civilization.d88987d3.png",
     "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
     "static/media/dework.png": "/static/media/dework.d9c8c41b.png",
+    "static/media/download.jfif": "/static/media/download.41e9f9cc.jfif",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/familytree365.png": "/static/media/familytree365.7f581880.png",
     "static/media/gdg.png": "/static/media/gdg.6364dbb3.png",
@@ -51,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ce89729d.js",
-    "static/js/2.b9025174.chunk.js",
+    "static/js/2.3f007cd6.chunk.js",
     "static/css/main.65014132.chunk.css",
-    "static/js/main.5a640cad.chunk.js"
+    "static/js/main.6016aeb5.chunk.js"
   ]
 }
