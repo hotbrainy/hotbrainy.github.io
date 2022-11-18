@@ -683,7 +683,41 @@ const projects = {
           iconifyClass: "logos-Python",
         }
       ],
-    }, 
+    }, {
+      id: "3",
+      name: "ForestAdmin",
+      logo_path: "forestadmin.png",
+      url: "https://app.forestadmin.com/",
+      description: "Easy setup, without any hassle. Save time and money with the internal tool that fits all your needs.",
+      languages: [
+        {
+          name: "Node.js",
+          iconifyClass: "logos-node",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos-redux",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "Ruby on Rails",
+          iconifyClass: "logos-ror",
+        },
+        {
+          name: "CircleCI",
+        },
+        {
+          name: "GraphQL/Apollo",
+        },
+      ],
+    },
     {
       id: "2",
       name: "Caballus",
@@ -725,37 +759,7 @@ const projects = {
         },
       ],
     },
-    {
-      id: "3",
-      name: "FamilyTree365",
-      logo_path: "familytree365.png",
-      url: "https://www.familytree365.com/",
-      description: "Family Tree 365 is an online family tree maker that’s feature-rich yet easy to use.",
-      languages: [
-        {
-          name: "Laravel",
-          iconifyClass: "logos-laravel",
-        },
-        {
-          name: "Gedcom",
-          iconifyClass: "logos-gedcom",
-        },
-        {
-          name: "NuxtJS",
-          iconifyClass: "logos-nuxt",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "CircleCI",
-        },
-        {
-          name: "GraphQL/Apollo",
-        },
-      ],
-    },
+    
     {
       id: "4",
       name: "E-Library of University of Sydney",
@@ -784,39 +788,30 @@ const projects = {
     },
     {
       id: "5",
-      name: "Taxi en Valencia",
-      logo_path: "taxiva24h.png",
-      url: "http://taxiva24h.com/",
+      name: "BetaSmartz",
+      logo_path: "betasmartz.png",
+      url: "https://demo.betasmartz.com/",
       description:
-        "Pide un taxi de la manera mas sencilla, vayas donde vayas…Siempre TAXIVA24H",
+        "Experience next generation digital investment management",
       languages: [
         {
-          name: "Nest.js",
+          name: "Node.js",
         },
         {
           name: "Apollo/GraphQL",
         },
         {
-          name: "Angular",
+          name: "React",
         },
         {
           name: "Typescript",
         },
         {
-          name: "Node.js",
+          name: "Redux",
         },
         {
-          name: "JavaScript",
-        },
-        {
-          name: "GraphQL",
-        },
-        {
-          name: "Flutter",
-        },
-        {
-          name: "Mobile",
-        },
+          name: "ReduxSaga",
+        }
       ],
     },
     {
