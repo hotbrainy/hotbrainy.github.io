@@ -615,7 +615,7 @@ const projects = {
     },
     {
       id: "1",
-      name: "voltadao",
+      name: "Voltadao",
       url: "https://www.voltadao.finance/",
       logo_path: "voltadao.jfif",
       description:
@@ -658,10 +658,14 @@ const projects = {
       id: "1",
       name: "MehhCoin",
       url: "https://mehhcoin.com/",
-      logo_path: "voltadao.jfif",
+      logo_path: "download.jfif",
       description:
         "Alternative of Ethereum 2.0 coin.",
       languages: [
+        {
+          name: "Cryptocurrencies",
+          iconifyClass: "logos-Cryptocurrencies",
+        }, 
         {
           name: "Blockchain",
           iconifyClass: "logos-blockchain",
@@ -675,26 +679,12 @@ const projects = {
           iconifyClass: "logos-solidity",
         },
         {
-          name: "Cryptocurrencies",
-          iconifyClass: "logos-Cryptocurrencies",
-        },
-        {
-          name: "Node.js/Express",
-          iconifyClass: "logos-express",
-        },
-        {
-          name: "GraphQL",
-          iconifyClass: "logos-graphql",
-        },
-        {
-          name: "Vue.js",
-          iconifyClass: "logos-vue",
-        }, 
-        {
-          name: "Ethereum",
+          name: "Python",
+          iconifyClass: "logos-Python",
         }
       ],
-    }, {
+    }, 
+    {
       id: "2",
       name: "Caballus",
       logo_path: "caballus.png",
