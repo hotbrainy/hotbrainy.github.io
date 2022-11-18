@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78035e61ab0b0106c20cb441ddec6383",
+    "revision": "92724a0e018941de3f92636f1a28b2c5",
     "url": "/index.html"
   },
   {
-    "revision": "4cf931e558612b124fbd",
+    "revision": "70668a6d6f2b825934f0",
     "url": "/static/css/main.65014132.chunk.css"
   },
   {
-    "revision": "4aa1024a209a8f791bfe",
-    "url": "/static/js/2.3f007cd6.chunk.js"
+    "revision": "15aeb8a4f3b0b960513c",
+    "url": "/static/js/2.619249f8.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.3f007cd6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.619249f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cf931e558612b124fbd",
-    "url": "/static/js/main.6016aeb5.chunk.js"
+    "revision": "70668a6d6f2b825934f0",
+    "url": "/static/js/main.02548848.chunk.js"
   },
   {
     "revision": "f139b624154a37532bb8",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f25b3518734883fda86e83357a597f38",
     "url": "/static/media/U-of-T-logo.f25b3518.svg"
+  },
+  {
+    "revision": "94cff4b5e07df7e849d41c8c9f81fdfa",
+    "url": "/static/media/betasmartz.94cff4b5.png"
   },
   {
     "revision": "a1051a228140c97862ba9a7f321c92b6",
@@ -154,6 +158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f5818800d4d5001185d803100bfc77e",
     "url": "/static/media/familytree365.7f581880.png"
+  },
+  {
+    "revision": "41810842262417d6e2ba95e32a78e77e",
+    "url": "/static/media/forestadmin.41810842.png"
   },
   {
     "revision": "6364dbb3a5b59c28566eac7e6aaacd04",
