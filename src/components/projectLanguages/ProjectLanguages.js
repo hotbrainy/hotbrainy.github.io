@@ -8,6 +8,11 @@ function ProjectLanguages(props) {
       {props.logos.map((logo) => {
         return (
           <span className="skill-language" style={{ background: logo.color }}>
+            <span
+              className="iconify"
+              data-icon={logo.iconifyClass}
+              data-inline="false"
+            ></span>{" "}
             {logo.name}
           </span>
           // <OverlayTrigger

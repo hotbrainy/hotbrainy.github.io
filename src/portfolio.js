@@ -15,7 +15,7 @@ const greeting = {
   nickname: "hotbrainy",
   full_name: "Brian Hoge",
   subTitle:
-    "Senior Full Stack Engineer, Tactful React expert⚛️, Eligible Blockchain Master.🔥 And I ❤️ working for satisfy!",
+    "Senior Full Stack Engineer, Tactful React expert⚛️, Eligible Blockchain Master and Familiar ChatGPT with OpenAI.🔥 And I ❤️ working for satisfy!",
   funFact: "I like spaghetti🍝, but hate spaghetti code",
   resumeLink:
     "https://drive.google.com/file/d/1UKnSIr1Od678v366bSZ-yqFBsTI1EMFR/view?usp=share_link",
@@ -137,7 +137,7 @@ const skills = {
         },
         {
           skillName: "Vue",
-          name: "logos-vue",
+          name: "logos:vue",
         },
         {
           skillName: "Angular",
@@ -150,6 +150,10 @@ const skills = {
         {
           skillName: "Nx",
           name: "logos:nx",
+        },
+        {
+          skillName: "ChatGPT with OpenAI",
+          name: "logos:chatgpt-icon",
         },
         {
           skillName: "Bootstrap 4+",
@@ -265,7 +269,7 @@ const skills = {
         {
           skillName: "Xampp",
           name: "logos:xampp",
-        },        
+        },
         {
           skillName: "Nginx",
           name: "logos:nginx",
@@ -273,11 +277,11 @@ const skills = {
         {
           skillName: "Linux",
           name: "logos:linux-tux",
-        },        
+        },
         {
           skillName: "Ubuntu",
           name: "logos:ubuntu",
-        },        
+        },
       ],
     },
     {
@@ -379,7 +383,7 @@ const skills = {
           name: "logos:github-actions",
         },
       ],
-    }, 
+    },
   ],
 };
 
@@ -447,11 +451,26 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Lead Software Engineer",
+          company: "Aerial Empire Ltd",
+          company_url: "https://www.aerialempire.com/",
+          logo_path: "aerialempire.webp",
+          duration: "2023.01 - PRESENT",
+          location: "Remote",
+          description: `
+          −	Designed, developed, and implemented Python Web app to support business requirements. 
+          −	Follows approved life cycle methodologies, creates design documents, and performs program coding and testing.
+          −	Resolves technical issues through debugging, research, and investigation
+          −	Developed apps using OpenAI Platform Services include ChatGPT, DALL-E 2,          
+          `,
+          color: "#f071C5",
+        },
+        {
           title: "Fullstack Engineer",
           company: "Civilization",
           company_url: "https://civfund.org/",
           logo_path: "civfund.webp",
-          duration: "2021.10 - PRESENT",
+          duration: "2021.10 - 2022.11",
           location: "Remote",
           description: `
           −Responsible for building both of frontend and backend and review smart contracts.
@@ -503,7 +522,7 @@ const experience = {
           −Follows approved life cycle methodologies, creates design documents, and performs program coding and testing.
           `,
           color: "#0071C5",
-        },       
+        },
       ],
     },
     {
@@ -582,6 +601,44 @@ const projects = {
   data: [
     {
       id: "0",
+      name: "Aerial Empire Time-Lapse",
+      url: "https://aerialempiretimelapse.com/",
+      logo_path: "aerialempiretimelaplse.png",
+      description:
+        "360 live site monitoring & time-lapse films, We monitor and market construction sites in high-resolution using bespoke camera technology.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos:python",
+        },
+        {
+          name: "Django",
+          iconifyClass: "logos:django",
+        },
+        {
+          name: "Flask",
+          iconifyClass: "logos:flask",
+        },
+        {
+          name: "Node.js/Express",
+          iconifyClass: "skill-icons:expressjs-dark",
+        },
+        {
+          name: "React.js",
+          iconifyClass: "logos:react",
+        },
+        {
+          name: "ChatGPT",
+          iconifyClass: "logos:openai",
+        },
+        {
+          name: "GCP",
+          iconifyClass: "logos:google-cloud",
+        },
+      ],
+    },
+    {
+      id: "0",
       name: "Civilization",
       url: "https://app.civfund.org",
       logo_path: "civilization.png",
@@ -590,27 +647,32 @@ const projects = {
       languages: [
         {
           name: "Solidity",
-          iconifyClass: "logos-solidity",
+          iconifyClass: "logos:solidity",
         },
         {
           name: "Subgraph",
-          iconifyClass: "logos-subgrap",
+          iconifyClass: "nonicons:graphql-16",
+        },{
+          
+          name: "AWS",
+          iconifyClass: "logos:aws",
         },
         {
           name: "Node.js/Express",
-          iconifyClass: "logos-express",
+          iconifyClass: "skill-icons:expressjs-dark",
         },
         {
           name: "GraphQL",
-          iconifyClass: "logos-graphql",
+          iconifyClass: "logos:graphql",
         },
         {
           name: "Vue.js",
-          iconifyClass: "logos-vue",
-        }, 
+          iconifyClass: "logos:vue",
+        },
         {
           name: "Ethereum",
-        }
+          iconifyClass: "logos:ethereum",
+        },
       ],
     },
     {
@@ -618,40 +680,40 @@ const projects = {
       name: "Voltadao",
       url: "https://www.voltadao.finance/",
       logo_path: "voltadao.jfif",
-      description:
-        "Several staking projects based on VOLTA and PREP tokens.",
+      description: "Several staking projects based on VOLTA and PREP tokens.",
       languages: [
         {
           name: "Blockchain",
-          iconifyClass: "logos-blockchain",
+          iconifyClass: "eos-icons:blockchain",
         },
         {
           name: "Smart Contract",
-          iconifyClass: "logos-smart-contract",
+          iconifyClass: "carbon:blockchain",
         },
         {
           name: "Solidity",
-          iconifyClass: "logos-solidity",
+          iconifyClass: "logos:solidity",
         },
         {
           name: "Subgraph",
-          iconifyClass: "logos-subgrap",
+          iconifyClass: "nonicons:graphql-16",
         },
         {
           name: "Node.js/Express",
-          iconifyClass: "logos-express",
+          iconifyClass: "skill-icons:expressjs-dark",
         },
         {
           name: "GraphQL",
-          iconifyClass: "logos-graphql",
+          iconifyClass: "logos:graphql",
         },
         {
           name: "Vue.js",
-          iconifyClass: "logos-vue",
-        }, 
+          iconifyClass: "logos:vue",
+        },
         {
           name: "Ethereum",
-        }
+          iconifyClass: "logos:ethereum",
+        },
       ],
     },
     {
@@ -659,62 +721,66 @@ const projects = {
       name: "MehhCoin",
       url: "https://mehhcoin.com/",
       logo_path: "download.jfif",
-      description:
-        "Alternative of Ethereum 2.0 coin.",
+      description: "Alternative of Ethereum 2.0 coin.",
       languages: [
         {
           name: "Cryptocurrencies",
-          iconifyClass: "logos-Cryptocurrencies",
-        }, 
+          iconifyClass:
+            "streamline:money-currency-bitcoin-circle-1-crypto-circle-payment-blockchain-finance-bitcoin-currency-money",
+        },
         {
           name: "Blockchain",
-          iconifyClass: "logos-blockchain",
+          iconifyClass: "eos-icons:blockchain",
         },
         {
           name: "Smart Contract",
-          iconifyClass: "logos-smart-contract",
+          iconifyClass: "carbon:blockchain",
         },
         {
           name: "Solidity",
-          iconifyClass: "logos-solidity",
+          iconifyClass: "logos:solidity",
         },
         {
           name: "Python",
-          iconifyClass: "logos-Python",
-        }
+          iconifyClass: "logos:python",
+        },
       ],
-    }, {
+    },
+    {
       id: "3",
       name: "ForestAdmin",
       logo_path: "forestadmin.png",
       url: "https://app.forestadmin.com/",
-      description: "Easy setup, without any hassle. Save time and money with the internal tool that fits all your needs.",
+      description:
+        "Easy setup, without any hassle. Save time and money with the internal tool that fits all your needs.",
       languages: [
         {
           name: "Node.js",
-          iconifyClass: "logos-node",
+          iconifyClass: "logos:nodejs",
         },
         {
           name: "React",
-          iconifyClass: "logos-react",
+          iconifyClass: "logos:react",
         },
         {
           name: "Redux",
-          iconifyClass: "logos-redux",
+          iconifyClass: "logos:redux",
         },
         {
           name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          iconifyClass: "logos:javascript",
         },
         {
           name: "Ruby on Rails",
-          iconifyClass: "logos-ror",
+          iconifyClass: "mdi:language-ruby-on-rails",
         },
         {
           name: "CircleCI",
+          iconifyClass: "logos:circleci",
         },
         {
           name: "GraphQL/Apollo",
+          iconifyClass: "logos:apollostack",
         },
       ],
     },
@@ -723,43 +789,43 @@ const projects = {
       name: "Caballus",
       logo_path: "caballus.png",
       url: "https://ion-caballus.qa.riafox.dev/",
-      description:
-        "The Trust Horse Expreience",
+      description: "The Trust Horse Expreience",
       languages: [
         {
           name: "Nest.js",
-          iconifyClass: "logos-nest",
+          iconifyClass: "logos:nestjs",
         },
         {
           name: "MongoDB",
-          iconifyClass: "logos-mongo",
+          iconifyClass: "skill-icons:mongodb",
         },
         {
           name: "Ionic",
-          iconifyClass: "logos-ionic",
+          iconifyClass: "logos:ionic-icon",
         },
         {
           name: "Angular",
-          iconifyClass: "logos-angular",
+          iconifyClass: "logos:angular-icon",
         },
         {
           name: "Material UI",
-          iconifyClass: "logos-materialui",
+          iconifyClass: "logos:material-ui",
         },
         {
           name: "TypeScript",
-          iconifyClass: "logos-typescript",
+          iconifyClass: "logos:typescript-icon",
         },
         {
           name: "Swagger",
-          iconifyClass: "logos-swagger",
+          iconifyClass: "logos:swagger",
         },
         {
           name: "Jest",
+          iconifyClass: "logos:jest",
         },
       ],
     },
-    
+
     {
       id: "4",
       name: "E-Library of University of Sydney",
@@ -769,21 +835,24 @@ const projects = {
       languages: [
         {
           name: "Java",
-          iconifyClass: "logos-java",
+          iconifyClass: "logos:java",
         },
         {
-          name: "AWS(Lambda,DynamoDB)",
-          iconifyClass: "logos-aws",
+          name: "AWS",
+          iconifyClass: "logos:aws",
         },
         {
           name: "Spring Boot",
+          iconifyClass: "logos:spring-icon",
         },
         {
           name: "Node.js",
+          iconifyClass: "logos:nodejs-icon",
         },
         {
           name: "Laravel",
-        }
+          iconifyClass: "logos:laravel",
+        },
       ],
     },
     {
@@ -791,27 +860,32 @@ const projects = {
       name: "BetaSmartz",
       logo_path: "betasmartz.png",
       url: "https://demo.betasmartz.com/",
-      description:
-        "Experience next generation digital investment management",
+      description: "Experience next generation digital investment management",
       languages: [
         {
           name: "Node.js",
+          iconifyClass: "logos:nodejs-icon",
         },
         {
           name: "Apollo/GraphQL",
+          iconifyClass: "logos:graphql",
         },
         {
           name: "React",
+          iconifyClass: "logos:react",
         },
         {
           name: "Typescript",
+          iconifyClass: "logos:typescript-icon",
         },
         {
           name: "Redux",
+          iconifyClass: "logos:redux",
         },
         {
           name: "ReduxSaga",
-        }
+          iconifyClass: "logos:redux-saga",
+        },
       ],
     },
     {
@@ -824,18 +898,23 @@ const projects = {
       languages: [
         {
           name: "Vue",
+          iconifyClass: "logos:vue",
         },
         {
           name: "Typescript",
+          iconifyClass: "logos:typescript-icon",
         },
         {
           name: "TailwindCSS",
+          iconifyClass: "logos:tailwindcss-icon",
         },
         {
           name: "NFT",
+          iconifyClass: "ri:nft-fill",
         },
         {
           name: "Solidity",
+          iconifyClass: "logos:solidity",
         },
       ],
     },

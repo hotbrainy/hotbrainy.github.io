@@ -2,7 +2,7 @@
   "private": true,
   "name": "personal-website",
   "version": "1.0.0",
-  "homepage": "http://deepman70.github.io",
+  "homepage": "https://hotbrainy.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
