@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92724a0e018941de3f92636f1a28b2c5",
+    "revision": "5fb00c10f5ea6e51da06af23b89f5330",
     "url": "/index.html"
   },
   {
-    "revision": "70668a6d6f2b825934f0",
+    "revision": "078b993de522362075ce",
     "url": "/static/css/main.65014132.chunk.css"
   },
   {
-    "revision": "15aeb8a4f3b0b960513c",
-    "url": "/static/js/2.619249f8.chunk.js"
+    "revision": "2ae07f831b685cd2a101",
+    "url": "/static/js/2.37c43f83.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.619249f8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.37c43f83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70668a6d6f2b825934f0",
-    "url": "/static/js/main.02548848.chunk.js"
+    "revision": "078b993de522362075ce",
+    "url": "/static/js/main.2d58f5f4.chunk.js"
   },
   {
     "revision": "f139b624154a37532bb8",
@@ -58,6 +58,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f25b3518734883fda86e83357a597f38",
     "url": "/static/media/U-of-T-logo.f25b3518.svg"
+  },
+  {
+    "revision": "4cd11884db648a66f08af6991823b1ae",
+    "url": "/static/media/aerialempire.4cd11884.webp"
+  },
+  {
+    "revision": "cc4be61e989ab46600e81c96a4cb1f2a",
+    "url": "/static/media/aerialempiretimelaplse.cc4be61e.png"
   },
   {
     "revision": "94cff4b5e07df7e849d41c8c9f81fdfa",
