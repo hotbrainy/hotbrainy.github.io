@@ -29,7 +29,7 @@ const socialMediaLinks = {
   gmail: "brainhg95@gmail.com",
   discord: "https://discord.com/users/1014578460452208733",
   telegram: "https://t.me/hotbrainy",
-  skype: "https://join.skype.com/invite/xbs3Hx4yxCcI",
+  skype: "https://join.skype.com/invite/vIgfNu9boLhc",
 };
 
 const skills = {
@@ -450,7 +450,7 @@ const experience = {
     {
       title: "Work Experience",
       experiences: [
-        {
+       /*  {
           title: "Lead Software Engineer",
           company: "Aerial Empire Ltd",
           company_url: "https://www.aerialempire.com/",
@@ -464,7 +464,7 @@ const experience = {
           −	Developed apps using OpenAI Platform Services include ChatGPT, DALL-E 2,          
           `,
           color: "#f071C5",
-        },
+        }, */
         {
           title: "Fullstack Engineer",
           company: "Civilization",
