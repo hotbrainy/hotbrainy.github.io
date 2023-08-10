@@ -601,44 +601,49 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "Aerial Empire Time-Lapse",
-      url: "https://aerialempiretimelapse.com/",
-      logo_path: "aerialempiretimelaplse.png",
+      name: "BetBit",
+      url: "https://www.betbit.com/",
+      logo_path: "betbit1.png",
       description:
-        "360 live site monitoring & time-lapse films, We monitor and market construction sites in high-resolution using bespoke camera technology.",
-      languages: [
+        "Betting Site:Die Besten Bitcoin live casino und Krypto Casinos 2023.Play live roulette, live blackjack . Anonymous  Instant Payouts.",
+         languages: [
         {
-          name: "Python",
-          iconifyClass: "logos:python",
+          name: "Solidity",
+          iconifyClass: "logos:solidity",
         },
         {
-          name: "Django",
-          iconifyClass: "logos:django",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "logos:flask",
+          name: "Subgraph",
+          iconifyClass: "nonicons:graphql-16",
+        },{
+          
+          name: "AWS",
+          iconifyClass: "logos:aws",
+        },{
+          
+          name: "Symphony",
+          iconifyClass: "logos:php",
         },
         {
           name: "Node.js/Express",
           iconifyClass: "skill-icons:expressjs-dark",
         },
         {
-          name: "React.js",
-          iconifyClass: "logos:react",
+          name: "GraphQL",
+          iconifyClass: "logos:graphql",
         },
         {
-          name: "ChatGPT",
-          iconifyClass: "logos:openai",
+          name: "Vue.js",
+          iconifyClass: "logos:vue",
         },
         {
-          name: "GCP",
-          iconifyClass: "logos:google-cloud",
+          name: "Ethereum",
+          iconifyClass: "logos:ethereum",
         },
       ],
     },
+   
     {
-      id: "0",
+      id: "2",
       name: "Civilization",
       url: "https://app.civfund.org",
       logo_path: "civilization.png",
@@ -676,7 +681,7 @@ const projects = {
       ],
     },
     {
-      id: "1",
+      id: "3",
       name: "Voltadao",
       url: "https://www.voltadao.finance/",
       logo_path: "voltadao.jfif",
@@ -715,9 +720,47 @@ const projects = {
           iconifyClass: "logos:ethereum",
         },
       ],
-    },
+    }, 
     {
       id: "1",
+      name: "Aerial Empire Time-Lapse",
+      url: "https://aerialempiretimelapse.com/",
+      logo_path: "aerialempiretimelaplse.png",
+      description:
+        "360 live site monitoring & time-lapse films, We monitor and market construction sites in high-resolution using bespoke camera technology.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos:python",
+        },
+        {
+          name: "Django",
+          iconifyClass: "logos:django",
+        },
+        {
+          name: "Flask",
+          iconifyClass: "logos:flask",
+        },
+        {
+          name: "Node.js/Express",
+          iconifyClass: "skill-icons:expressjs-dark",
+        },
+        {
+          name: "React.js",
+          iconifyClass: "logos:react",
+        },
+        {
+          name: "ChatGPT",
+          iconifyClass: "logos:openai",
+        },
+        {
+          name: "GCP",
+          iconifyClass: "logos:google-cloud",
+        },
+      ],
+    },
+    {
+      id: "4",
       name: "MehhCoin",
       url: "https://mehhcoin.com/",
       logo_path: "download.jfif",
@@ -747,7 +790,7 @@ const projects = {
       ],
     },
     {
-      id: "3",
+      id: "5",
       name: "ForestAdmin",
       logo_path: "forestadmin.png",
       url: "https://app.forestadmin.com/",
@@ -785,7 +828,7 @@ const projects = {
       ],
     },
     {
-      id: "2",
+      id: "6",
       name: "Caballus",
       logo_path: "caballus.png",
       url: "https://ion-caballus.qa.riafox.dev/",
@@ -827,7 +870,7 @@ const projects = {
     },
 
     {
-      id: "4",
+      id: "7",
       name: "E-Library of University of Sydney",
       logo_path: "usydlib.png",
       url: "https://www.library.sydney.edu.au/",
@@ -856,7 +899,7 @@ const projects = {
       ],
     },
     {
-      id: "5",
+      id: "8",
       name: "BetaSmartz",
       logo_path: "betasmartz.png",
       url: "https://demo.betasmartz.com/",
@@ -889,7 +932,7 @@ const projects = {
       ],
     },
     {
-      id: "6",
+      id: "9",
       name: "Neko No Mori",
       logo_path: "neko.png",
       url: "https://nekonomori.io/",
